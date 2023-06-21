@@ -1,6 +1,6 @@
 const express = require('express');
 
-// ...
+// ...init
 
 const app = express();
 
