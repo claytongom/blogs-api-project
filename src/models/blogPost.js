@@ -23,5 +23,6 @@ module.exports = (sequelize, DataTypes) => {
       targetKey: 'id',
     });
   }
+  // correção nome arquivo
   return BlogPost;
 };
