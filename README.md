@@ -1,4 +1,4 @@
-# Projeto API de Blogs
+# Blogs API Project
 
 ## Visão Geral
 
